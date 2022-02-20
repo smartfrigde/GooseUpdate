@@ -12,3 +12,4 @@ cache
 *.key
 
 .env
+.vercel
